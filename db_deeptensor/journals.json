@@ -195,6 +195,9 @@
             "check_date": "2017-10-31T21:00:00.000Z"
         },
         {
+            "name": "ArXiv preprint"
+        },
+        {
             "name": "Biomedical Signal Processing and Control",
             "site": "https://www.journals.elsevier.com/biomedical-signal-processing-and-control",
             "wos": "https://jcr.incites.thomsonreuters.com/JCRJournalProfileAction.action?pg=JRNLPROF&journalImpactFactor=2.214&year=2016&journalTitle=Biomedical%20Signal%20Processing%20and%20Control&edition=SCIE&journal=BIOMED%20SIGNAL%20PROCES",
@@ -206,6 +209,9 @@
             "country": "ENGLAND",
             "quartile": "2",
             "check_date": "2017-10-31T21:00:00.000Z"
+        },
+        {
+            "name": "BioRxiv Preprint"
         },
         {
             "name": "BIT Numerical Mathematics",
